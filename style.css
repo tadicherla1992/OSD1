@@ -3376,7 +3376,7 @@ select.mobile-device {
         .whatsapp a i{
             font-size: 5rem;
             padding: 8px;
-            background-color: #247BB6;
+            background-color: green;
             border-radius: 50%;
             color: white;
         }

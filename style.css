@@ -3591,7 +3591,7 @@ select.mobile-device {
   }
 
   .header_style_01 .navbar-default .navbar-nav>li:hover .drop a{
-    color: #247BB6 !important;
+    /* color:  !important; */
   }
   .nav-item.drop-down1 .drop-items li a {
     color: white !important;

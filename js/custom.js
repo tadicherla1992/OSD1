@@ -178,3 +178,9 @@
     });
 
 })(jQuery);
+const open = document.querySelector(".nav-item.drop-down1");
+const btn = document.getElementById("plus");
+
+btn.addEventListener("click", () => {
+  open.classList.toggle("active");
+});
